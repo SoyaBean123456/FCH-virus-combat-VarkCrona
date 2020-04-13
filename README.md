@@ -10,38 +10,18 @@ A Deep Learning web app that will aid Agencies, Hospitals and Organizations in t
 
 ## Members
 Name: Yeo Yee Wen⋅⋅
-Email: [yeoyeewen@gmail.com](mailto:yeoyeewen@gmail.com)
-Tech Stack: MERN/MEAN Stack
-Occupation: Sunway Student
-Country Residence: Malaysia
 Github: [SoyaBean123456](https://github.com/SoyaBean123456)
 
 Name: Tan Lik Wei
-Email: [likweitan@gmail.com](mailto:likweitan@gmail.com)
-Tech Stack: html, css, php, javascript, java, mysql, C, C#, vb, python, r and unity
-Occupation: INTI Student
-Country Residence: Malaysia
 Github: [likweitan](https://github.com/likweitan)
 
 Name: Kelwin Tan Seen Tiong
-Email: [kelwin7300@gmail.com](mailto:kelwin7300@gmail.com)
-Tech Stack: html, css, php, java (least), mysql, postgres, C and unity
-Occupation: PHD Student
-Country Residence: Malaysia
 Github: [kelwin1412](https://github.com/kelwin1412)
 
 Name: Fatima Gachi Ahmed
-Email: [fatimatimo219@gmail.com](mailto:fatimatimo219@gmail.com)
-Tech Stack: R Programming, C ++ , Oracle/MySQL, SAS Enterprise, SAS E-Miner, Tableau, Qliksense, Google Analytics
-Occupation: Business Intelligence Analyst
-Country Residence: Malaysia
 Github: [fatimagachi](https://github.com/fatimagachi)
 
 Name: Prishalini Ramesh
-Email: [prisharamesh27@gmail.com](mailto:prisharamesh27@gmail.com)
-Tech Stack: Medicine
-Occupation: IMU Student
-Country Residence: Malaysia
 Github: [prisharamesh](https://github.com/prisharamesh)
 
 ## Problem
