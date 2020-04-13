@@ -8,6 +8,9 @@
 ## Idea
 A Deep Learning web app that will aid Agencies, Hospitals and Organizations in tracking and monitoring the symptoms and health status of existing and new Covid 19 patients to help classify high degree and low degree cases, offering help and educative measures at a convenience to patients. This web app will also offer psychological help to aid patients in dealing with paranoia, anxiety and other conditions as a result of Covid 19.
 
+## How It Work
+Varkrona's usage would refer it as a comprehensive online resource tool dedicated to COVID-19 screening, offering psychological support and engagement to those in need and tracking the spread of the disease. By answering a list of questions including symptoms, risk factors and exposure, screened patients will then be given a directive about when to seek testing or emergency care.The mental toll COVID-19 is taking on the public and front-liners is addressed, and the app will provide access to support and engagement for those in need, with specific focus in depression, anxiety and stress. The app consists of a self-directed questionnaire which can help determine if the user should speak with a mental health professional. Varkrona, as an app will then match the user to a therapist for their specific needs.Users can also alleviate their doubts and worries by accessing curated content centered on stress management, staying active and eating and sleeping well, including webinars, blog posts and links about staying healthy and means to help users deal with the pandemic. The app also tracks the current spread of COVID-19 in Malaysia by releasing a live dashboard from the MOH, WHO and CDC to track the virus in real time and includes information about cases by region and country, as well as the deaths. The information is displayed in a map and in corresponding charts.
+
 ## Members
 Name: Yeo Yee Wen⋅⋅
 Github: [SoyaBean123456](https://github.com/SoyaBean123456)
