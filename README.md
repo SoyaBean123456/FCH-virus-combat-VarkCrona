@@ -64,8 +64,8 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 | Dialogflow | https://dialogflow.com/ |
 | Tensorflow | https://js.tensorflow.org/api/latest/ |
 | Dribbble | https://dribbble.com/ |
-| PHP | https://laravel.com/ |
-| Bootstrape | https://getbootstrap.com/ |
+| PHP | https://www.php.net/ |
+| Bootstrap | https://getbootstrap.com/ |
 | Flaticon | https://www.flaticon.com/ |
 | Material UI | https://material-ui.com/ |
 | FaceAPI | https://overflowjs.com/posts/Face-Detection-Using-JavaScript-API-face-apijs.html |
