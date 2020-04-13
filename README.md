@@ -1,42 +1,39 @@
-# Team Idea & Members Detail
+# Covid-19 Forkwell Hack Team Name: VarkCrona
+*An AI psychologist*
 
-Covid-19 Forkwell Hack
-Team Name: VarkCrona
+![enter image description here](https://img.shields.io/github/last-commit/SoyaBean123456/fch-virus-combat)
+![stars](https://img.shields.io/github/stars/SoyaBean123456/fch-virus-combat?style=social)
 
-Idea: A Deep Learning web app that will aid Agencies, Hospitals and Organizations in tracking and monitoring the symptoms and health status of existing and new Covid 19 patients to help classify high degree and low degree cases, offering help and educative measures at a convenience to patients. This web app will also offer psychological help to aid patients in dealing with paranoia, anxiety and other conditions as a result of Covid 19.
+## Idea
+A Deep Learning web app that will aid Agencies, Hospitals and Organizations in tracking and monitoring the symptoms and health status of existing and new Covid 19 patients to help classify high degree and low degree cases, offering help and educative measures at a convenience to patients. This web app will also offer psychological help to aid patients in dealing with paranoia, anxiety and other conditions as a result of Covid 19.
 
-Name: Yeo Yee Wen
-Email Address: yeoyeewen@gmail.com
-Tech Stack: MERN/MEAN Stack
-Occupation: Sunway Student
-Country Residence: Malaysia
-Github: https://github.com/SoyaBean123456
+## Members
+| Name | E-mail | Tech Stack | Occupation | Country Residence | Github |
+|--|--|--|--|--|--|--|--|
+| Yeo Yee Wen | [yeoyeewen@gmail.com](mailto:yeoyeewen@gmail.com)  | MERN/MEAN Stack | Sunway Student | Malaysia | [SoyaBean123456](https://github.com/SoyaBean123456) |
+| Tan Lik Wei | [likweitan@gmail.com](mailto:likweitan@gmail.com)  | html, css, php, javascript, java, mysql, C, C#, vb, python, r and unity | INTI Student | Malaysia | [likweitan](https://github.com/likweitan) |
+| Kelwin Tan Seen Tiong | [kelwin7300@gmail.com](mailto:kelwin7300@gmail.com)   | MERN/MEAN Stack | PHD Student | Malaysia | [kelwin1412](https://github.com/kelwin1412) |
+| Fatima Gachi Ahmed | [fatimatimo219@gmail.com](mailto:fatimatimo219@gmail.com) | R Programming, C ++ , Oracle/MySQL, SAS Enterprise, SAS E-Miner, Tableau, Qliksense, Google Analytics | Business Intelligence Analyst | Malaysia | [fatimagachi](https://github.com/fatimagachi) |
+| Prishalini Ramesh | [prisharamesh27@gmail.com](mailto:prisharamesh27@gmail.com) | Medicine | IMU Student | Malaysia | [prisharamesh](https://github.com/prisharamesh) |
 
-Name: Tan Lik Wei
-Email Address: likweitan@gmail.com
-Tech Stack: html, css, php, javascript, java, mysql, C, C#, vb, python, r and unity
-Occupation: Inti Student
-Country Residence: Malaysia
-Github: https://github.com/likweitan
+## Problem
+- A study done by a team of specialists on cognitive neuroscience and psychology to survey the general public in China to understand their their levels of psychological impact during the COVID-19 outbreak. Among 1210 respondents, 53.8% of rated the psychological impact of the outbreak as moderate or severe where, 16.5% reported depressive symptoms; 28.8% reported anxiety symptoms; and 8.1% reported moderate to severe stress levels. The journal also reported that one of the factors associated with these adverse mental outcomes was social isolation due to quarantine. (Wang, C et al., Immediate Psychological Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease (COVID-19) Epidemic among the General Population in China. 2020). Another journal has also suggested that misinformation may adversely effect mental health by causing confusion among the general public, hence causing panic and distress (Samia et al., Impact of rumors or misinformation on coronavirus disease (Covid-19) in social media. 2020). The CDC has also identified a group of individuals who may respond more strongly to the stress of this crisis, including older people, those with underlying medical comorbidities, childrens and adoloscents, front-liners and those with preexisting mental conditions.
+    
+- A study to assess the magnitude of mental health outcomes among healthcare workers treating patients with Covid-19 showed that among 1257 respondents consisting of doctors, nurses and emergency responders, 50.4% of them reported depressive symptoms, 44.6% reported anxiety symptoms and 71.5% reported distress, with nurses and frontline workers being those with most severe symptoms. (Jianbo Lai et al., Factors Associated with Mental Health Outcomes Among Health Care Workers Exposed to Coronavirus Disease 2019, 2020).
 
-Name: Kelwin Tan Seen Tiong
-Email Address: kelwin7300@gmail.com
-Tech Stack: html, css, php, java (least), mysql, postgres, C and unity
-Occupation: PHD Student
-Country Residence: Malaysia
-Github: https://github.com/kelwin1412/godspace
+## Value Proposition
+-   Provide tailored psychotherapy consultations
+-   Provide a platform for patient-doctor interaction
+-   Increase efficiency of clinician in diagnosis and containment of COVid19
+-   Educate patients in the real-effect of virus
 
-Name: Fatima Gachi Ahmed
-Email Address: fatimatimo219@gmail.com
-Tech Stack: R Programming, C ++ , Oracle/MySQL, SAS Enterprise, SAS E-Miner, Tableau, Qliksense, Google Analytics 
-Occupation: Business Intelligence Analyst
-Country Residence: Malaysia
-Github: https://github.com/fatimagachi
+## Resources
+| Name | Link |
+|--|--|
+| Tableau | https://www.tableau.com |
+| Firebase | https://firebase.google.com/ |
+| Nodejs | https://nodejs.org |
+| Dialogflow | https://dialogflow.com/ |
 
-Name: Prishalini Ramesh
-Email Address: prisharamesh27@gmail.com
-Tech Stack: Medicine
-Occupation: IMU Student
-Country Residence: Malaysia
-Github: https://github.com/prisharamesh
 
+## Further Improvements
