@@ -1,5 +1,5 @@
-# Covid-19 Forkwell Hack Team Name: VarkCrona
-**An AI psychologist**
+# Covid-19 Forkwell Hack Team Name: VarkCrona:  An AI psychologist
+
 
 ![enter image description here](https://github.com/SoyaBean123456/fch-virus-combat/blob/master/img/logo.png?raw=true)
 
