@@ -62,6 +62,13 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 | Firebase | https://firebase.google.com/ |
 | Nodejs | https://nodejs.org |
 | Dialogflow | https://dialogflow.com/ |
+| Tensorflow | https://js.tensorflow.org/api/latest/ |
 
 
 ## Further Improvements
+-   Enable social media posting & text usage for user and medics to communicate directly via the platform
+-   Basic ICT Infrastructure as future building blocks on mental health platform
+-   Incorporation into hospital information systems
+-   Information gathering and reference
+
+
