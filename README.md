@@ -2,7 +2,6 @@
 **An AI psychologist**
 
 ![enter image description here](https://img.shields.io/github/last-commit/SoyaBean123456/fch-virus-combat)
-![stars](https://img.shields.io/github/stars/SoyaBean123456/fch-virus-combat?style=social)
 
 ## Idea
 A Deep Learning web app that will aid Agencies, Hospitals and Organizations in tracking and monitoring the symptoms and health status of existing and new Covid 19 patients to help classify high degree and low degree cases, offering help and educative measures at a convenience to patients. This web app will also offer psychological help to aid patients in dealing with paranoia, anxiety and other conditions as a result of Covid 19.
