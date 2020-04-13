@@ -29,6 +29,18 @@ Github: [prisharamesh](https://github.com/prisharamesh)
     
 - A study to assess the magnitude of mental health outcomes among healthcare workers treating patients with Covid-19 showed that among 1257 respondents consisting of doctors, nurses and emergency responders, 50.4% of them reported depressive symptoms, 44.6% reported anxiety symptoms and 71.5% reported distress, with nurses and frontline workers being those with most severe symptoms. (Jianbo Lai et al., Factors Associated with Mental Health Outcomes Among Health Care Workers Exposed to Coronavirus Disease 2019, 2020).
 
+## Effect Of Problem
+- Misconception of Coronavirus (COVID-19) and general lack of understanding
+- Sharing of fake or unofficial news
+- Lack of analytical ability in understanding cases numbers
+- Insufficient medical advices
+- Lack of protection of healthcare personnel
+
+## Objective Of Web Application
+- Offer psychological support and engagement to those in need, including the general population and healthcare personnel, with a focuson depression, anxiety and stress.
+- Curate content with verified information from credible sources to empower the general population and alleviate confusion and anxiety  by means of self-education
+- Releasing a live dashboard and COVID-19 registry to help healthcare agencies manage the way they engage with overwhelming patient population.
+
 ## Value Proposition
 -   Provide tailored psychotherapy consultations
 -   Provide a platform for patient-doctor interaction
@@ -51,8 +63,7 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 | FaceAPI | https://overflowjs.com/posts/Face-Detection-Using-JavaScript-API-face-apijs.html |
 
 
-
-## Further Improvements
+## Future Improvements
 -   Enable social media posting & text usage for user and medics to communicate directly via the platform.
 -   Basic ICT Infrastructure as future building blocks on mental health platform.
 -   Incorporation into hospital information systems.
