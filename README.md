@@ -55,7 +55,7 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 -   Increase efficiency of clinician in diagnosis and containment of COVid19
 -   Educate patients in the real-effect of virus
 
-## Resources
+## Resources || Framework
 | Name | Link |
 |--|--|
 | Tableau | https://www.tableau.com |
@@ -63,12 +63,19 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 | Nodejs | https://nodejs.org |
 | Dialogflow | https://dialogflow.com/ |
 | Tensorflow | https://js.tensorflow.org/api/latest/ |
+| Dribbble | https://dribbble.com/ |
+| PHP | https://laravel.com/ |
+| Bootstrape | https://getbootstrap.com/ |
+| Flaticon | https://www.flaticon.com/ |
+| Material UI | https://material-ui.com/ |
+| FaceAPI | https://overflowjs.com/posts/Face-Detection-Using-JavaScript-API-face-apijs.html |
+
 
 
 ## Further Improvements
--   Enable social media posting & text usage for user and medics to communicate directly via the platform
--   Basic ICT Infrastructure as future building blocks on mental health platform
--   Incorporation into hospital information systems
--   Information gathering and reference
+-   Enable social media posting & text usage for user and medics to communicate directly via the platform.
+-   Basic ICT Infrastructure as future building blocks on mental health platform.
+-   Incorporation into hospital information systems.
+-   Information gathering and reference.
 
 
