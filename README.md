@@ -8,6 +8,9 @@
 ## Idea
 A Deep Learning web app that will aid Agencies, Hospitals and Organizations in tracking and monitoring the symptoms and health status of existing and new Covid 19 patients to help classify high degree and low degree cases, offering help and educative measures at a convenience to patients. This web app will also offer psychological help to aid patients in dealing with paranoia, anxiety and other conditions as a result of Covid 19.
 
+## Inspiration
+We have been inspired by the collective efforts of companies of different backgrounds working together to help governments and health agencies tackle COVID-19 by utilising the growing influence and convenience of technology. We have also drawn inspiration from many existing mental health apps in the market as they prove to be a valuable resource since the past few years in conjunction with increasing mental health awareness. We have taken into account the adverse mental consequences that might have been exacerbated by the ongoing COVID-19 pandemic, and we have assimilated some of the features of these novel and existing resources to develop an app which will predominantly focus on the mental well-being of different target groups. 
+
 ## How It Work
 Varkrona's usage would refer it as a comprehensive online resource tool dedicated to COVID-19 screening, offering psychological support and engagement to those in need and tracking the spread of the disease. By answering a list of questions including symptoms, risk factors and exposure, screened patients will then be given a directive about when to seek testing or emergency care.The mental toll COVID-19 is taking on the public and front-liners is addressed, and the app will provide access to support and engagement for those in need, with specific focus in depression, anxiety and stress. The app consists of a self-directed questionnaire which can help determine if the user should speak with a mental health professional. Varkrona, as an app will then match the user to a therapist for their specific needs.Users can also alleviate their doubts and worries by accessing curated content centered on stress management, staying active and eating and sleeping well, including webinars, blog posts and links about staying healthy and means to help users deal with the pandemic. The app also tracks the current spread of COVID-19 in Malaysia by releasing a live dashboard from the MOH, WHO and CDC to track the virus in real time and includes information about cases by region and country, as well as the deaths. The information is displayed in a map and in corresponding charts.
 
@@ -50,6 +53,9 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 -   Increase efficiency of clinician in diagnosis and containment of COVid19
 -   Educate patients in the real-effect of virus
 
+## How we built it
+We have built an app that will cater for both clinicians and patients alike. The app will be oriented for clinicians by helping them in the assessment, diagnosis and management of the patient, and supporting education and accessibility of care for patients. To do so, we have analysed research papers from credible resources like WHO, CDC and MOH. We have also studied the essential features in existing mental health apps and how they are used to tailor self-care for a different group of audiences. 
+
 ## Resources || Framework
 | Name | Link |
 |--|--|
@@ -72,5 +78,12 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 -   Basic ICT Infrastructure as future building blocks on mental health platform.
 -   Incorporation into hospital information systems.
 -   Information gathering and reference.
+
+## Challenges
+The challenges faced in the development of a mental health app is the reduced patient-doctor interaction. The personal touch and assurance which will usually be obtained by direct interaction will be compromised in our app although it is a crucial aspect in the diagnosis and management of mental health. We also faced some usability issues, whereby the accessibility of the app may be limited by poor internet access, availability of an android phone, and the user’s own knowledge and confidence of using technology, such as rural areas, and the older target audience.
+
+## What we learnt
+During the development of this app, we have learnt that there are many psychological components which will benefit the user, with each modality being unique, such as cognitive-behavioural interventions, acceptance commitment therapies, self-administered questionnaires, mood training and so on. With the understanding of these different psychotherapy approaches, we can provide a more tailored experience for the user. We have also learnt the importance of maintaining patient’s confidentiality and how it may be compromised by the use of technology, hence, we have studied various regulatory guidelines that has been taken into account during the app development to ensure maximum privacy of the app and directly upholding the patient’s confidentiality.
+
 
 
