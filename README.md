@@ -57,6 +57,7 @@ Github: [prisharamesh](https://github.com/prisharamesh)
 | Firebase | https://firebase.google.com/ |
 | Nodejs | https://nodejs.org |
 | Dialogflow | https://dialogflow.com/ |
+| GoogleCloudPlatform | https://cloud.google.com/solutions/contact-center/covid19-rapid-response |
 | Tensorflow | https://js.tensorflow.org/api/latest/ |
 | Dribbble | https://dribbble.com/ |
 | PHP | https://www.php.net/ |
