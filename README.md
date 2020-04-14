@@ -1,12 +1,12 @@
 # Covid-19 Forkwell Hack Team Name: VarkCrona  
+Slides: https://docs.google.com/presentation/d/1YGVVwYDCM635WLvFxJjtNqzCiTQ4Nyy6kZ-ayW4PVb8/edit
 <p align="center">
   <b>TITLE: An AI psychologist</b><br>
   <br><br>
   <img src="https://github.com/SoyaBean123456/fch-virus-combat/blob/master/img/logo.png?raw=true">
 </p>
 
-Video Presentation: https://drive.google.com/drive/folders/11JG6Be_EqZ10dKrg2Xd5OQzTsFrqS1yy?usp=sharing \n
-Slides: https://docs.google.com/presentation/d/1YGVVwYDCM635WLvFxJjtNqzCiTQ4Nyy6kZ-ayW4PVb8/edit
+Video Presentation: https://drive.google.com/drive/folders/11JG6Be_EqZ10dKrg2Xd5OQzTsFrqS1yy?usp=sharing 
 
 ## Idea
 A Deep Learning web app that will aid Agencies, Hospitals and Organizations in tracking and monitoring the symptoms and health status of existing and new Covid 19 patients to help classify high degree and low degree cases, offering help and educative measures at a convenience to patients. This web app will also offer psychological help to aid patients in dealing with paranoia, anxiety and other conditions as a result of Covid 19.
