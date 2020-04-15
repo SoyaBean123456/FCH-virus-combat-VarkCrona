@@ -96,13 +96,13 @@ During the development of this app, we have learnt that there are many psycholog
  ### Medic Form
  ![Medic Form](UI Design Images/UI2.png?raw=true)
  
- ### Hotspots
+ ### Home Page
  ![Home Page](UI Design Images/UI3.png?raw=true)
 
- ### Statistics
+ ### Analytics & News
  ![Analytics & News](UI Design Images/UI4.png?raw=true)
 
- ### Admin Interface
+ ### AI Doctor/Psychologist
  ![AI Psychologist](UI Design Images/UI5.png?raw=true)
 
 
