@@ -91,19 +91,19 @@ During the development of this app, we have learnt that there are many psycholog
 
 ##  UI Design Screenshot
  ### Login Screen
- ![Login Screen](UI Design Images/UI.PNG?raw=true)
+ ![Login Screen](UI Design Images/UI.png?raw=true)
  
  ### Medic Form
- ![Medic Form](UI Design Images/UI2.PNG?raw=true)
+ ![Medic Form](UI Design Images/UI2.png?raw=true)
  
  ### Hotspots
- ![Home Page](UI Design Images/UI3.PNG?raw=true
+ ![Home Page](UI Design Images/UI3.png?raw=true)
 
  ### Statistics
- ![Analytics & News](UI Design Images/UI4.PNG?raw=true
+ ![Analytics & News](UI Design Images/UI4.png?raw=true)
 
  ### Admin Interface
- ![AI Psychologist](UI Design Images/UI5.PNG?raw=true
+ ![AI Psychologist](UI Design Images/UI5.png?raw=true)
 
 
 
