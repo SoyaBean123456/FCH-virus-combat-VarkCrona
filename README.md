@@ -91,7 +91,7 @@ During the development of this app, we have learnt that there are many psycholog
 
 ##  UI Design Screenshot
  ### Login Screen
- ![Login Screen](UI Design Images/UI.png?raw=true)
+ ![Login Screen](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI%20Design%20Images/UI.PNG?raw=true)
  
  ### Medic Form
  ![Medic Form](UI Design Images/UI2.png?raw=true)
