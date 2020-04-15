@@ -89,4 +89,22 @@ The challenges faced in the development of a mental health app is the reduced pa
 During the development of this app, we have learnt that there are many psychological components which will benefit the user, with each modality being unique, such as cognitive-behavioural interventions, acceptance commitment therapies, self-administered questionnaires, mood training and so on. With the understanding of these different psychotherapy approaches, we can provide a more tailored experience for the user. We have also learnt the importance of maintaining patient’s confidentiality and how it may be compromised by the use of technology, hence, we have studied various regulatory guidelines that has been taken into account during the app development to ensure maximum privacy of the app and directly upholding the patient’s confidentiality.
 
 
+##  UI Design Screenshot
+ ### Login Screen
+ ![Login Screen](UI Design Images/UI.PNG?raw=true)
+ 
+ ### Medic Form
+ ![Medic Form](UI Design Images/UI2.PNG?raw=true)
+ 
+ ### Hotspots
+ ![Home Page](UI Design Images/UI3.PNG?raw=true
+
+ ### Statistics
+ ![Analytics & News](UI Design Images/UI4.PNG?raw=true
+
+ ### Admin Interface
+ ![AI Psychologist](UI Design Images/UI5.PNG?raw=true
+
+
+
 
