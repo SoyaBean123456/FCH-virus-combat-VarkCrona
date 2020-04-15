@@ -94,16 +94,16 @@ During the development of this app, we have learnt that there are many psycholog
  ![Login Screen](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI%20Design%20Images/UI.PNG?raw=true)
  
  ### Medic Form
- ![Medic Form](UI Design Images/UI2.png?raw=true)
+ ![Medic Form](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI2%20Design%20Images/UI.PNG?raw=true)
  
  ### Home Page
- ![Home Page](UI Design Images/UI3.png?raw=true)
+ ![Home Page](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI3%20Design%20Images/UI.PNG?raw=true)
 
  ### Analytics & News
- ![Analytics & News](UI Design Images/UI4.png?raw=true)
+ ![Analytics & News](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI4%20Design%20Images/UI.PNG?raw=true)
 
  ### AI Doctor/Psychologist
- ![AI Psychologist](UI Design Images/UI5.png?raw=true)
+ ![AI Psychologist](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI5%20Design%20Images/UI.PNG?raw=true)
 
 
 
