@@ -90,11 +90,6 @@ During the development of this app, we have learnt that there are many psycholog
 
 
 ##  UI Design Screenshot
- ### Login Screen
- ![Login Screen](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI%20Design%20Images/UI.PNG?raw=true)
- 
- ### Medic Form
- ![Medic Form](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI%20Design%20Images/UI2.PNG?raw=true)
  
  ### Home Page
  ![Home Page](https://github.com/SoyaBean123456/FCH-virus-combat-VarkCrona/blob/master/UI%20Design%20Images/UI3.PNG?raw=true)
