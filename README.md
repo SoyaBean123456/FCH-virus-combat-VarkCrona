@@ -1,4 +1,4 @@
-# Covid-19 Forkwell Hack Team Name: VarkCrona  
+# Covid-19 Forkwell Hack Team Name: VarkCrona  [UNDER MAINTENANCE]
 
 <p align="center">
   <b>TITLE: An AI psychologist</b><br>
